@@ -28,4 +28,4 @@ Fader is free, open source and fully tested 🖖. If you would like to make chan
 
 ## License
 
-Fader is distributed under the [MIT License](LICENSE)
+Fader is distributed under an [open source license](LICENSE)
