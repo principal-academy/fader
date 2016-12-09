@@ -1,7 +1,7 @@
+![Fader Logo](/logo.png)
+
 # Fader
 Fade animation library for Unity game engine
-
-![Fader Logo](/logo.png)
 
 ## Installation
 
@@ -30,4 +30,4 @@ Fader is free, open source and fully tested 🖖. If you would like to make chan
 
 ## License
 
-Fader is distributed under an [open source license](LICENSE), logo is provided by [Madebyoliver](http://www.flaticon.com/authors/madebyoliver) from [Flaticon]("http://www.flaticon.com/") which is licensed under [Creative Commons 3.0](http://creativecommons.org/licenses/by/3.0/) and made with [Logo Maker](http://logomakr.com).
+Fader is distributed under an [open source license](LICENSE), logo is provided by [Madebyoliver](http://www.flaticon.com/authors/madebyoliver) from [Flaticon](http://www.flaticon.com/) which is licensed under [Creative Commons 3.0](http://creativecommons.org/licenses/by/3.0/) and made with [Logo Maker](http://logomakr.com).
