@@ -1,7 +1,7 @@
 # Fader
 Fade animation library for Unity game engine.
 
-![Fader Logo](/logo.png)
+![Fader Logo](logos/logo.png)
 
 ## Installation
 
