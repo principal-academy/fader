@@ -34,7 +34,7 @@ public class Fader : MonoBehaviour
 	public const int drawDepth = -1000;
 	private float alpha = 1.0f;
 	private FadeDirection direction = FadeDirection.Out;
-	private GameObject gameObject;
+	private new GameObject gameObject;
 
 	/// <summary>
 	/// Fade the entire screen based on the direction.
