@@ -4,7 +4,6 @@ using System.Collections;
 [IntegrationTest.DynamicTest ("FaderTest")]
 public class FaderTest : MonoBehaviour
 {
-	// Use this for initialization
 	void Start ()
 	{
 		Fader.Fade (FadeDirection.In, () => {
