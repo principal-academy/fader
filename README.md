@@ -14,7 +14,7 @@ Fade animation library for Unity game engine.
 Use the `Fader` class to fade your screen in and out. Use the first parameter to specify your direction and the second parameter as a callback. Here is an example:
 
 ```csharp
-Fader.Fade (FadeDirection.In, () => {
+Fader.Fade (FadeDirection.Out, () => {
     // Put your callback code here.
     // It is triggered at the end of the fade animation.
 });
@@ -22,7 +22,7 @@ Fader.Fade (FadeDirection.In, () => {
 
 ## How it works
 
-Fader works by creating a game object in your scene that draws a texture with variable alpha. The game object is created at the beginning of your animation and it is destroyed after the animation is finished.
+Fader works by creating a game object in your scene that draws a texture with a variable alpha. The game object is created at the beginning of your animation and it is destroyed after the animation is finished.
 
 ## Development
 
